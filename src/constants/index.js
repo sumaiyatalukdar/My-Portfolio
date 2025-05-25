@@ -77,7 +77,7 @@ export const myProjects = [
   },
   
   {
-    title: 'Horizon - Online Banking Platform',
+    title: 'FunZone - Quiz Web App',
     desc: 'FunZone is an interactive web app with quizzes, jokes, an image carousel, and a leaderboard. It features dark/light theme support, hover animations, a quiz timer, and real-time score tracking. Enjoy sound effects, a floating avatar, and smooth navigation for an engaging and fun user experience.',
     subdesc:
       'Features -Quizzes with timer and real-time score tracking,  Jokes for entertainment, Image Carousel for visual enjoyment, Leaderboard to track top scores, Dark/Light Theme Support for personalized experience.',
@@ -132,6 +132,8 @@ export const myProjects = [
      
     ],
   },
+
+  
 ];
 
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
